@@ -130,7 +130,7 @@ def main():
                 direction2 = changeDirection2
             if changeDirection2 == 'up' and direction2 != 'down':
                 direction2 = changeDirection2
-            if changeDirection2 == 'down' and direction2 != 'down':
+            if changeDirection2 == 'down' and direction2 != 'up':
                 direction2 = changeDirection2
             # 根据方向移动蛇头的坐标
             if direction1 == 'right':
