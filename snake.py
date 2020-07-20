@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 #测试pr
 import pygame
 import sys
