@@ -66,7 +66,7 @@ def main():
 
     playSurface = pygame.display.set_mode((640, 480), FULLSCREEN, 32)  #全屏显示
     fpsClock = pygame.time.Clock()
-    pygame.display.set_caption('贪吃蛇')  #欢迎界面，此时未开始游戏
+    pygame.display.set_caption(u'贪吃蛇')  #欢迎界面，此时未开始游戏
     game_started = False
 
     #初始化两条蛇的起始位置和长度
