@@ -1,5 +1,19 @@
 # snake
 
+####Introduction
+
+Python Snake game
+
+####Software architecture
+
+python
+
+Install pyGame to open and run directly
+
+snake.py It's a single snake (only about 160 lines of code)
+
+twosnakes.py It's a pair vs. snake (only about 220 lines of code)
+
 #### 介绍
 python贪吃蛇小游戏
 
