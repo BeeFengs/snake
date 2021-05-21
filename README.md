@@ -1,10 +1,10 @@
 # snake
 
-####Introduction
+#### Introduction
 
 Python Snake game
 
-####Software architecture
+#### Software architecture
 
 python
 
