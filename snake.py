@@ -138,7 +138,7 @@ def main():
         # 显示死亡文字
         isdead = snake.isdead()
         if isdead:
-            show_text(screen,(100,200),'YOU DEAD!',(227,29,18),False,100)
+            show_text(screen,(100,200),'You Are Died!',(227,29,18),False,100)
             show_text(screen,(150,260),'press space to try again...',(0,0,22),False,30)
             
         # 食物处理 / 吃到+50分
